@@ -85,6 +85,12 @@ export("BSseq", "getMeth", "getCoverage", "getBSseq", "getStats",
        "poissonGoodnessOfFit", "binomialGoodnessOfFit",
        "data.frame2GRanges", "BSseqTstat",
        "BSseqStat",
+       ".bsPlotLines",
+       ".plotSmoothData",
+       ".bsGetGr",
+       "getMeth",
+       "getCoverage",
+       ".bsGetCol",
        "findLoci")
 
 S3method("print", "chisqGoodnessOfFit")
